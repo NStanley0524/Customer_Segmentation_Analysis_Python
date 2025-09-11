@@ -17,3 +17,15 @@ Unlike a standard analysis, this solution goes further by providing a **Streamli
 This makes it a **practical tool** for analysts, product managers, and financial institutions who want actionable insights.  
 
 ---
+
+## 🏦 Business Context  
+Customer segmentation is a cornerstone of modern business strategy. With better segmentation, organisations can:  
+- Tailor products and services to specific groups  
+- Improve targeting in marketing campaigns  
+- Identify high-value vs low-engagement customers  
+- Enhance customer retention and loyalty programs  
+- Support smarter decision-making in credit risk and product development  
+
+While this project was designed with financial services in mind, the framework is **industry-agnostic** and can be applied in retail, telecom, healthcare, education, and more.  
+
+---
