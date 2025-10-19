@@ -127,7 +127,6 @@ This makes it easier for business teams to design and manage targeted strategies
 ![PCA](visuals/Streamlit_cluster.png)
 
 
-
 This scatterplot shows the customer clusters after applying **Principal Component Analysis (PCA)** for dimensionality reduction.  
 Each dot represents a customer, positioned based on their underlying features, and coloured according to the cluster they belong to.  
 
