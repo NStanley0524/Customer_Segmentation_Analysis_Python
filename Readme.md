@@ -124,7 +124,7 @@ This makes it easier for business teams to design and manage targeted strategies
 
 2. PCA-KMeans Clusters
 
-![PCA](visuals/Streamlit_cluster.png)
+![PCA](Visuals/Streamlit_cluster.png)
 
 
 This scatterplot shows the customer clusters after applying **Principal Component Analysis (PCA)** for dimensionality reduction.  
